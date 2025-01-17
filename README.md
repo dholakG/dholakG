@@ -1,39 +1,39 @@
-<a href="https://komarev.com/ghpvc/?username=dholak">
-  <img align="right" src="https://komarev.com/ghpvc/?username=dholak&label=Visitors&color=3DFF3C&style=flat" alt="Profile visitor" />
+<a href="https://komarev.com/ghpvc/?username=manvik">
+  <img align="right" src="https://komarev.com/ghpvc/?username=manvik&label=Visitors&color=3DFF3C&style=flat" alt="Profile visitor" />
 </a>
 
 <!-- Intro -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://dholak.com" style="color:#3DFF3C;">Dholak</a></b>
+                <b><a target="_blank" href="https://manvik.com" style="color:#3DFF3C;">Manvik</a></b>
         </samp>
 </h3>
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Dholak" style="color:#3DFF3C;">「 Google Me 」</a>
+    <a href="https://www.google.com/search?q=Manvik" style="color:#3DFF3C;">「 Google Me 」</a>
     <br>
-    「 I am a full stack web application developer from <b>Dholak</b> 」
+    「 I am a full stack web application developer from <b>Manvik</b> 」
     <br>
     <br>
   </samp>
 </p>
 
 <p align="center">
- <a href="https://dholak.com" target="blank">
-  <img src="https://img.shields.io/badge/Website-3DFF3C?style=for-the-badge&logo=medium&logoColor=white" alt="dholak" />
+ <a href="https://manvik.com" target="blank">
+  <img src="https://img.shields.io/badge/Website-3DFF3C?style=for-the-badge&logo=medium&logoColor=white" alt="manvik" />
  </a>
- <a href="https://linkedin.com/in/dholak" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="dholak"/>
+ <a href="https://linkedin.com/in/manvik" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="manvik"/>
  </a>
- <a href="https://twitter.com/_dholak" target="_blank">
+ <a href="https://twitter.com/_manvik" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
- <a href="https://instagram.com/_dholak" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="dholak" />
+ <a href="https://instagram.com/_manvik" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="manvik" />
  </a> 
- <a href="https://facebook.com/dholak.dev" target="_blank">
-  <img src="https://img.shields.io/badge/FaceF?&style=for-the-badge&logo=facebook&logoColor=white" alt="dholak" />
+ <a href="https://facebook.com/manvik.dev" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white" alt="manvik" />
   </a> 
 </p>
 <br />
@@ -78,13 +78,13 @@
 <br/>
 
 ## Top Open Source -
-[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=dholak&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=3DFF3C&text_color=8B949E&icon_color=3DFF3C)](https://github.com/dholak/itasks)
-[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=dholak&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=3DFF3C&text_color=8B949E&icon_color=3DFF3C)](https://github.com/dholak/urfolio)
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=dholak&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=3DFF3C&text_color=8B949E&icon_color=3DFF3C)](https://github.com/dholak/web-projects)
-[![Dholak Readme](https://github-readme-stats.vercel.app/api/pin/?username=dholak&repo=dholak&border_color=7F3FBF&bg_color=0D1117&title_color=3DFF3C&text_color=8B949E&icon_color=3DFF3C)](https://github.com/dholak/dholak)
+[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=manvik&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=3DFF3C&text_color=8B949E&icon_color=3DFF3C)](https://github.com/manvik/itasks)
+[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=manvik&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=3DFF3C&text_color=8B949E&icon_color=3DFF3C)](https://github.com/manvik/urfolio)
+[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=manvik&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=3DFF3C&text_color=8B949E&icon_color=3DFF3C)](https://github.com/manvik/web-projects)
+[![Manvik Readme](https://github-readme-stats.vercel.app/api/pin/?username=manvik&repo=manvik&border_color=7F3FBF&bg_color=0D1117&title_color=3DFF3C&text_color=8B949E&icon_color=3DFF3C)](https://github.com/manvik/manvik)
 
 <p align="left">
-  <a href="https://github.com/dholak?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://github.com/manvik?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
 <br/>
@@ -92,19 +92,19 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/dholak">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dholak&theme=radical&border=3DFF3C&background=0D1117" alt="Dholak's GitHub streak"/>
+  <a href="https://github.com/manvik">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=manvik&theme=radical&border=3DFF3C&background=0D1117" alt="Manvik's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/dholak">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dholak&theme=radical" alt="Dholak's GitHub Contribution"/>
+  <a href="https://github.com/manvik">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manvik&theme=radical" alt="Manvik's GitHub Contribution"/>
   </a>
 </p>
 
 <a> 
-    <a href="https://github.com/dholak"><img alt="Dholak's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=dholak&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=3DFF3C&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/dholak"><img alt="Dholak's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=dholak&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=3DFF3C&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/manvik"><img alt="Manvik's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=manvik&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=3DFF3C&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/manvik"><img alt="Manvik's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=manvik&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=3DFF3C&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
